@@ -21,14 +21,21 @@ I am enthusiastic about learning new technologies, improving application perform
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=YoussefAtef18&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="YoussefAtef18's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=YoussefAtef18&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="YoussefAtef18's GitHub Streak" width="49%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAtef18&show_icons=true&count_private=true&hide_border=true" alt="YoussefAtef18's GitHub Stats" width="49%" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=YoussefAtef18&hide_border=true" alt="YoussefAtef18's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAtef18&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="YoussefAtef18's GitHub Trophies" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAtef18&no-bg=true&no-frame=true&margin-w=4" alt="YoussefAtef18's GitHub Trophies" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAtef18&theme=highcontrast&radius=10" alt="YoussefAtef18's Activity Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAtef18&theme=github&hide_border=true&area=true" height="280em" alt="YoussefAtef18's Activity Graph" />
 </p>
 
 
