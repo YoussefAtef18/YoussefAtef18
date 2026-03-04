@@ -12,7 +12,7 @@ I have successfully worked on multiple projects, including **university graduati
 I am enthusiastic about learning new technologies, improving application performance, and contributing to impactful software projects.
 
 
-### 🧠 My Focus Areas
--⚙️ Tools: Git, GitHub, Docker
--💻 Back-End Development: Node.js, Express, Bug and .Net
--🛢️ Database: MongoDB, SQL and SQL Server
+### 🧠 Skills
+- 💻 Backend: Node.js, Express
+- 🛢️ Database: MongoDB, SQL, SQL Server
+- ⚙️ Tools: Git, GitHub, Docker
