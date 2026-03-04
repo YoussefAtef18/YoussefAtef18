@@ -13,6 +13,7 @@ I am enthusiastic about learning new technologies, improving application perform
 
 
 ### 🧠 Skills
-- 💻 Backend: Node.js, Express
+- ⚙️ Programming Languages: JavaScript (ES6), C++, C, C# 
+- 💻 Backend: Node.js, Express, Bug, .Net
 - 🛢️ Database: MongoDB, SQL, SQL Server
-- ⚙️ Tools: Git, GitHub, Docker
+- 🛠️ Tools: Git, GitHub, Docker
