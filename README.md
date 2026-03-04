@@ -13,6 +13,6 @@ I am enthusiastic about learning new technologies, improving application perform
 
 
 ### 🧠 My Focus Areas
-⚙️ Tools: Git, GitHub, Docker
-💻 Back-End Development: Node.js, Express, Bug and .Net
-🛢️ Database: MongoDB, SQL and SQL Server
+-⚙️ Tools: Git, GitHub, Docker
+-💻 Back-End Development: Node.js, Express, Bug and .Net
+-🛢️ Database: MongoDB, SQL and SQL Server
