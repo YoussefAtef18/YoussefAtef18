@@ -3,7 +3,7 @@
 ### 👨‍💻 Backend Developer | Merchandiser
 
 - 🔭 I’m currently working on NodeJs Projects
-- 🌱 I’m currently learning .Net and n8n
+- 🌱 I’m currently learning .Net, n8n and Docker
 - 📫 How to reach me: Y.atef18@gmail.com
 
 ### 📌 About Me
@@ -13,3 +13,6 @@ I am enthusiastic about learning new technologies, improving application perform
 
 
 ### 🧠 My Focus Areas
+⚙️ Tools: Git, GitHub, Docker
+💻 Back-End Development: Node.js, Express, Bug and .Net
+🛢️ Database: MongoDB, SQL and SQL Server
