@@ -7,3 +7,5 @@
 - 📫 How to reach me: Y.atef18@gmail.com
 
 ### 📌About Me
+I am a passionate backend developer with experience in building and optimizing scalable web applications. 
+I have strong skills and hands-on expertise in Node.js, Express, and MongoDB.
