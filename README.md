@@ -21,7 +21,7 @@ I am enthusiastic about learning new technologies, improving application perform
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAtef18&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="YoussefAtef18's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?user=YoussefAtef18&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="YoussefAtef18's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=YoussefAtef18&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="YoussefAtef18's GitHub Streak" width="49%" />
 </p>
 <p align="center">
